@@ -1,0 +1,4 @@
+﻿  Week 1 Lab Advanced C++ - Welcome.cpp
+F:\repos\Advanced-Cplusplus-University-Lab-Tasks\Week 1\Week 1 Lab Advanced C++ - Welcome\Week 1 Lab Advanced C++ - Welcome\Week 1 Lab Advanced C++ - Welcome.cpp(102,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\repos\Advanced-Cplusplus-University-Lab-Tasks\Week 1\Week 1 Lab Advanced C++ - Welcome\Week 1 Lab Advanced C++ - Welcome\Week 1 Lab Advanced C++ - Welcome.cpp(128,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Week 1 Lab Advanced C++ - Welcome.vcxproj -> F:\repos\Advanced-Cplusplus-University-Lab-Tasks\Week 1\Week 1 Lab Advanced C++ - Welcome\Debug\Week 1 Lab Advanced C++ - Welcome.exe
