@@ -12,11 +12,11 @@ int main()
     int* ptr = new int;
     *ptr = 4;
 
-    cout << "Value of integer before changeInt: " << *ptr << std::endl;
+    cout << "Value of integer before changeInt: " << *ptr << endl;
 
     changeInt(ptr); // call the function to change the value of the integer
 
-    cout << "Value of integer after changeInt: " << *ptr << std::endl;
+    cout << "Value of integer after changeInt: " << *ptr << endl;
 
     delete ptr; // deallocate the memory for the integer
     return 0;
