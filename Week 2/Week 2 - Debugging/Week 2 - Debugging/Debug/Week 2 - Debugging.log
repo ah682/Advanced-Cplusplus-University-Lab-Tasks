@@ -1,3 +1,0 @@
-﻿  Week 2 - Debugging.cpp
-F:\repos\Advanced-Cplusplus-University-Lab-Tasks\Week 2\Week 2 - Debugging\Week 2 - Debugging\Week 2 - Debugging.cpp(148,11): warning C4930: 'CCounter consTestTwo(void)': prototyped function not called (was a variable definition intended?)
-  Week 2 - Debugging.vcxproj -> F:\repos\Advanced-Cplusplus-University-Lab-Tasks\Week 2\Week 2 - Debugging\Debug\Week 2 - Debugging.exe
