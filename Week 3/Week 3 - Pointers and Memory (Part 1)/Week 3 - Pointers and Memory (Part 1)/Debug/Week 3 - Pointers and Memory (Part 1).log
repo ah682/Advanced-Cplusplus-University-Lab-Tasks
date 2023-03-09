@@ -1,2 +1,4 @@
 ﻿  Week 3 - Pointers and Memory (Part 1).cpp
+F:\repos\Advanced-Cplusplus-University-Lab-Tasks\Week 3\Week 3 - Pointers and Memory (Part 1)\Week 3 - Pointers and Memory (Part 1)\Week 3 - Pointers and Memory (Part 1).cpp(94,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\repos\Advanced-Cplusplus-University-Lab-Tasks\Week 3\Week 3 - Pointers and Memory (Part 1)\Week 3 - Pointers and Memory (Part 1)\Week 3 - Pointers and Memory (Part 1).cpp(121,36): warning C4305: '=': truncation from 'double' to 'float'
   Week 3 - Pointers and Memory (Part 1).vcxproj -> F:\repos\Advanced-Cplusplus-University-Lab-Tasks\Week 3\Week 3 - Pointers and Memory (Part 1)\Debug\Week 3 - Pointers and Memory (Part 1).exe
